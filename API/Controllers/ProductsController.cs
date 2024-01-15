@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
+// Setting up product controller
 namespace API.Controllers
 {
     [ApiController]
